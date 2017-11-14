@@ -255,7 +255,7 @@
 .fa-road:before {
   content: "\f018";
 }
-.fa-download:before {
+.fa-rates:before {
   content: "\f019";
 }
 .fa-arrow-circle-o-down:before {
@@ -842,7 +842,7 @@
 .fa-exchange:before {
   content: "\f0ec";
 }
-.fa-cloud-download:before {
+.fa-cloud-rates:before {
   content: "\f0ed";
 }
 .fa-cloud-upload:before {
